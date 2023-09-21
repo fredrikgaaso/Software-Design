@@ -1,0 +1,11 @@
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/bin/Debug/net7.0/lecture03
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/bin/Debug/net7.0/lecture03.dll
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/bin/Debug/net7.0/lecture03.pdb
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/obj/Debug/net7.0/lecture03.csproj.AssemblyReference.cache
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/obj/Debug/net7.0/lecture03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/obj/Debug/net7.0/lecture03.AssemblyInfoInputs.cache
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/obj/Debug/net7.0/lecture03.AssemblyInfo.cs
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/obj/Debug/net7.0/lecture03.csproj.CoreCompileInputs.cache
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/obj/Debug/net7.0/lecture03.dll
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/obj/Debug/net7.0/refint/lecture03.dll
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Lectures/lecture03/lecture03/obj/Debug/net7.0/lecture03.pdb

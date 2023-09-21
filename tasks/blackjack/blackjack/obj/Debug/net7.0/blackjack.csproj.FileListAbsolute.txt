@@ -1,0 +1,11 @@
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/obj/Debug/net7.0/blackjack.csproj.AssemblyReference.cache
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/obj/Debug/net7.0/blackjack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/obj/Debug/net7.0/blackjack.AssemblyInfoInputs.cache
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/obj/Debug/net7.0/blackjack.AssemblyInfo.cs
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/obj/Debug/net7.0/blackjack.csproj.CoreCompileInputs.cache
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/bin/Debug/net7.0/blackjack
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/bin/Debug/net7.0/blackjack.dll
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/bin/Debug/net7.0/blackjack.pdb
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/obj/Debug/net7.0/blackjack.dll
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/obj/Debug/net7.0/refint/blackjack.dll
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/blackjack/blackjack/obj/Debug/net7.0/blackjack.pdb

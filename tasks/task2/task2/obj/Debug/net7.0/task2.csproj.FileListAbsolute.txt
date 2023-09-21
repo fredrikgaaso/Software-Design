@@ -1,0 +1,11 @@
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/bin/Debug/net7.0/task2
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/bin/Debug/net7.0/task2.dll
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/bin/Debug/net7.0/task2.pdb
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/obj/Debug/net7.0/task2.csproj.AssemblyReference.cache
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/obj/Debug/net7.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/obj/Debug/net7.0/task2.AssemblyInfoInputs.cache
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/obj/Debug/net7.0/task2.AssemblyInfo.cs
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/obj/Debug/net7.0/task2.csproj.CoreCompileInputs.cache
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/obj/Debug/net7.0/task2.dll
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/obj/Debug/net7.0/refint/task2.dll
+/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/task2/task2/obj/Debug/net7.0/task2.pdb
