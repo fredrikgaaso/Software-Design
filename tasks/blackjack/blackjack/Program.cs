@@ -1,5 +1,7 @@
 ﻿using blackjack;
 
+string yey;
+
 CardDeck deck = new();
 
 Console.WriteLine($"Number of cards is: {deck.DrawPile.Count}");
