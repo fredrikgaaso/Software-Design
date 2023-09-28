@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace Task05;
+namespace Task05.Tests;
 
 public class Tests {
     [SetUp]

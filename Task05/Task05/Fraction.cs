@@ -3,11 +3,12 @@ using System.Xml.Xsl;
 namespace Task05; 
 
 public class Fraction {
-
+    public bool Equals(Fraction other) {
+        return Numerator * other.Denominator == Denominator * other.Numerator;
+    }
     public Fraction(int numerator = 0, int denominator = 1) {
         Numerator = numerator;
         Denominator = denominator;
-        
         
     }
     private int Numerator { get; set; }

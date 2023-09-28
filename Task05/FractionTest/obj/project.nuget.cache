@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "q93JrSXO/o4NBdNIBH6VMQQ3qH5/1mEskReFq+2n7ZRKIkSCjfNHp0CCdF6a2ZDUDpz5kdLXiFnaGOGU77cIdQ==",
+  "success": true,
+  "projectFilePath": "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Task05/FractionTest/FractionTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/fredrikgaaso/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/microsoft.codecoverage/17.8.0-preview-23424-02/microsoft.codecoverage.17.8.0-preview-23424-02.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/microsoft.net.test.sdk/17.8.0-preview-23424-02/microsoft.net.test.sdk.17.8.0-preview-23424-02.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/microsoft.testplatform.objectmodel/17.8.0-preview-23424-02/microsoft.testplatform.objectmodel.17.8.0-preview-23424-02.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/microsoft.testplatform.testhost/17.8.0-preview-23424-02/microsoft.testplatform.testhost.17.8.0-preview-23424-02.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit.analyzers/3.8.0/nunit.analyzers.3.8.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit.console/3.12.0/nunit.console.3.12.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit.consolerunner/3.16.3/nunit.consolerunner.3.16.3.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit.extension.nunitprojectloader/3.6.0/nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit.extension.nunitv2driver/3.8.0/nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit.extension.nunitv2resultwriter/3.6.0/nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit.extension.teamcityeventlistener/1.0.7/nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit.extension.vsprojectloader/3.8.0/nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit.runners/3.12.0/nunit.runners.3.12.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/fredrikgaaso/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

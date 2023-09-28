@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/Task05/Task05/Task05.csproj": {}
+    "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Task05/Task05/Task05.csproj": {}
   },
   "projects": {
-    "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/Task05/Task05/Task05.csproj": {
+    "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Task05/Task05/Task05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/Task05/Task05/Task05.csproj",
+        "projectUniqueName": "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Task05/Task05/Task05.csproj",
         "projectName": "Task05",
-        "projectPath": "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/Task05/Task05/Task05.csproj",
+        "projectPath": "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Task05/Task05/Task05.csproj",
         "packagesPath": "/Users/fredrikgaaso/.nuget/packages/",
-        "outputPath": "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/tasks/Task05/Task05/obj/",
+        "outputPath": "/Users/fredrikgaaso/Library/Mobile Documents/com~apple~CloudDocs/Desktop/HK/2.år/Software design/Task05/Task05/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fredrikgaaso/.nuget/NuGet/NuGet.Config"
@@ -38,9 +38,21 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.13.3, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.16.3, )"
+            },
+            "NUnit.Runners": {
+              "target": "Package",
+              "version": "[3.12.0, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
